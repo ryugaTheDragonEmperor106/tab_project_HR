@@ -24,7 +24,7 @@ Age vs Salary Distribution
 Scatter plot showing salary trends across various job titles and age groups (e.g., HR Assistant, IT Manager, Finance Manager).
 
 📁 Project Details
-Tool Used: Tableau
+Tool Used: Tableau,Figma
 
 Dataset: Generated using Python (Faker library & ChatGPT) to simulate realistic HR data
 
